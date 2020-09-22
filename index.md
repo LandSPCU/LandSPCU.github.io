@@ -31,7 +31,7 @@
 <img src="./img/관련이미지.png">
 
 - 동영상
-[![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
+[!](https://www.youtube.com/watch?time_continue=29&v=L1nF4XfnJMs&feature=emb_title)
 
 <br><br>
 
@@ -79,10 +79,10 @@
 ## 3. 미적요소
 
 [디자인][컬러]  
-가나다라마바사아차카타파하 가나다라마바사아차카타파하
+빛과 그림자가 대비가 느껴지도록 흑색과 백색만을 사용하여 몽환적인 느낌을 주려고 함
 
 [음향]  
-가나다라마바사아차카타파하 가나다라마바사아차카타파하
+디자인에 맡는 몽환적인 느낌의 배경음
 	
 <br>
 
