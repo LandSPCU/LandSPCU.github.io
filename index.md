@@ -31,7 +31,7 @@
 <img src="./img/관련이미지.png">
 
 - 동영상
-[!](https://www.youtube.com/watch?time_continue=29&v=L1nF4XfnJMs&feature=emb_title)
+[youtube동영상링크](https://www.youtube.com/watch?time_continue=29&v=L1nF4XfnJMs&feature=emb_title)
 
 <br><br>
 
